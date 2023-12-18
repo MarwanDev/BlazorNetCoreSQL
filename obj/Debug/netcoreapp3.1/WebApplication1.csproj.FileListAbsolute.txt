@@ -27,3 +27,10 @@ D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplicati
 D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
 D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.sourcelink.json
